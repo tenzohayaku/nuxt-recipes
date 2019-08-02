@@ -36,6 +36,7 @@ export default {
     Logo
   }
 }
+
 </script>
 
 <style>
@@ -70,6 +71,8 @@ export default {
   padding-top: 15px;
 }
 </style>
+
+
 
 
 
